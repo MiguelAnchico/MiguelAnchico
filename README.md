@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am Miguel Ángel Anchico Valencia</h1>
 <h3 align="center">I am frontend developer with backend and database knowledge</h3>
 
-- 🔭 I’m currently working on [Jams](https://github.com/MiguelAnchico/Jams.git)
+- 🔭 I’m currently working on Peakr
 
-- 🌱 I’m currently learning **NextJS and NestJS**
+- 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **TypeScript, React, NodeJS, Html, Css and Bootstrap**
+- 💬 Ask me about **TypeScript, React, Antd, Html, Css and Bootstrap**
 
 - 📫 How to reach me **mangel.anchico@gmail.com**
 
